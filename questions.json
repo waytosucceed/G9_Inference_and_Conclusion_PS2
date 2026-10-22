@@ -1,0 +1,48 @@
+{
+  "heading": "G9NL_Inference and Conclusions(Writing)",
+  "topics": [
+    {
+      "heading": "Inference and Conclusions(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence using the word “Concatenated”, which means: Linked together in a chain or series; joined sequentially.",
+          "text_area": "",
+          "answer": ["The chapters were carefully concatenated into a seamless narrative that disguised their disparate origins."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence using the word “Imprimatur”, which means: An official approval or authorisation, originally a license to print granted by church or state.",
+          "text_area": "",
+          "answer": ["The controversial manuscript was published only after receiving the bishop’s imprimatur."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence using the word “Congruent”, which means: In agreement, harmony, or correspondence; in geometry, identical in form and size.",
+          "text_area": "",
+          "answer": ["Her conclusions were congruent with the experimental data, reinforcing the validity of her hypothesis."]
+        },
+         
+         
+   {
+  "questionNo": 4,
+  "type": "long",
+  "question": "<b>Read the following sentences.</b> <br>They are basic facts about a community centre.<br><b>Sentences:</b><ol><li>The noticeboard by the entrance, headed Riverside Community Centre, had six notices pinned to it, and five of them had expired dates.</li><li>A stack of unopened post sat on the reception desk, the top envelope marked Second Reminder.</li><li>The vending machine had a handwritten sign taped across the coin slot reading Out of Order.</li><li>Half the strip lights in the main hall had been removed rather than replaced.</li><li>The weekly timetable on the wall showed four sessions, three of which had been crossed out in pen.</li><li>A caretaker was carrying two folding tables toward a van parked outside.</li><li>The kettle in the kitchen had been unplugged and its cable wound tightly around the base.</li><li>A woman in the car park was photographing the front of the building from several angles.</li><li>The last entry in the visitors' book was dated eleven days earlier.</li><li>A child's painting was still pinned to the corridor wall, curling at all four corners.</li></ol><b>Q4. NOW, based on these sentences, write ONE Direct Inference for each sentence (what does this single sentence tell you?).</b>",
+  "text_area": ""
+
+},
+   {
+  "questionNo": 4,
+  "type": "long",
+  "question": "<b>Read the following sentences from question above.</b> <br>They are basic facts about a community centre.<br><b>Q5. Then, combine your ten direct inferences into ONE indirect inference (what has been happening at this building?)",
+  "text_area": ""
+
+}
+
+      ]
+    }
+  ]
+}
